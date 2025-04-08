@@ -1,0 +1,9 @@
+chat-app using technoglogies 
+
+react 
+node.js
+json
+lucide-react
+daisy UI
+tailwind
+toast - react hot toast
